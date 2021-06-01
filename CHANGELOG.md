@@ -22,5 +22,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 
-- Simulation request jupyterlabs.
+- Simulation request jupyterlab.
+- S5 repository.
 - S5 jupyterlabs.
